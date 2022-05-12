@@ -1,0 +1,2 @@
+# practica
+practicas python uth
